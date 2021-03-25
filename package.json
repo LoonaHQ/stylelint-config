@@ -1,0 +1,15 @@
+{
+  "name": "@loonaorg/stylelint-config",
+  "version": "1.0.0",
+  "description": "Loona's public stylelint configuration",
+  "main": "index.js",
+  "repository": "git@github.com:LoonaHQ/stylelint-config.git",
+  "author": "Loona",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "stylelint": ">= 13",
+    "stylelint-order": ">= 4",
+    "stylelint-scss": ">= 3"
+  }
+}
