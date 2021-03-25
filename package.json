@@ -6,7 +6,6 @@
   "repository": "git@github.com:LoonaHQ/stylelint-config.git",
   "author": "Loona",
   "license": "MIT",
-  "private": false,
   "peerDependencies": {
     "stylelint": ">= 13",
     "stylelint-order": ">= 4",
